@@ -1,0 +1,47 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+<br><br>
+<h1>Resume</h1>
+<h2>Tina Mishra</h2>
+<hr />
+<br>
+<p class="head">Interests</p>
+<ul>
+ <li>Doing something new and creative in Technical field</li>
+ <li>Badminton</li>
+ <li>Dancing</li>
+ <li>Programming</li>
+</ul>
+<p class="head">Technical Skills</p>
+<ul>
+<li>web design with php and css</li>
+<li>c,c++</li>
+</ul>
+<p class="head">Skills</p>
+<ul>
+<li>Leadership</li>
+<li>Teamwork</li>
+<li>Communication</li>
+<li>Positive Attitude</li
+<li>Organisation</li>
+<p class="head">Education</p>
+<ul
+ <a
+  href="http://www.bubhopal.ac.in/1068/Home"
+  <li>Barkatullah University Institute of Technology</li>
+ <a/>
+
+ <a href="https://www.facebook.com/shpsbhopal/">
+ <li>Scholar's Home Public School</li>
+ </a>
+</ul>
+<p class"head">Achivements</p>
+ <ul>
+  <li>Prizes for academic excellence at school level</li>
+  <li>Attendance certificate on webinar of DevPOs</li>
+ </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+ <h2 id="name">Tina Mishra</h2></div>
