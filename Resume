@@ -7,35 +7,36 @@
 <hr />
 <br>
 <p class="head">Interests</p>
-<ul>
- <li>Doing something new and creative in Technical field</li>
- <li>Badminton</li>
- <li>Dancing</li>
- <li>Programming</li>
-</ul>
+ <ul>
+  <li>Doing something new and creative in Technical field</li>
+  <li>Badminton</li>
+  <li>Dancing</li>
+  <li>Programming</li>
+ </ul>
 <p class="head">Technical Skills</p>
-<ul>
-<li>web design with php and css</li>
-<li>c,c++</li>
-</ul>
+ <ul>
+  <li>web design with php and css</li>
+  <li>c,c++</li>
+ </ul>
 <p class="head">Skills</p>
-<ul>
-<li>Leadership</li>
-<li>Teamwork</li>
-<li>Communication</li>
-<li>Positive Attitude</li
-<li>Organisation</li>
+ <ul>
+  <li>Leadership</li>
+  <li>Teamwork</li>
+  <li>Communication</li>
+  <li>Positive Attitude</li
+  <li>Organisation</li>
+ </ul>
 <p class="head">Education</p>
-<ul
+ <ul
  <a
   href="http://www.bubhopal.ac.in/1068/Home"
   <li>Barkatullah University Institute of Technology</li>
  <a/>
 
  <a href="https://www.facebook.com/shpsbhopal/">
- <li>Scholar's Home Public School</li>
+  <li>Scholar's Home Public School</li>
  </a>
-</ul>
+ </ul>
 <p class"head">Achivements</p>
  <ul>
   <li>Prizes for academic excellence at school level</li>
